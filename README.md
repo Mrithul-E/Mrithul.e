@@ -12,7 +12,7 @@
 ---
 </a>
 
-Intrest
+Intrest :
 <h1 style="padding-left:30px">🠋</h1>
 
 
